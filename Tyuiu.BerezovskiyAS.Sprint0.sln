@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BerezovskiyAS.Sprint0.Task0.V0", "Tyuiu.BerezovskiyAS.Sprint0.Task0.V0\Tyuiu.BerezovskiyAS.Sprint0.Task0.V0.csproj", "{4961A42A-02E8-4849-93F1-0F130A24DF2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{FF0D7C95-B994-4F36-8DC0-A8CC1E1B73A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BerezovskiyAS.Sprint0.Task1.V0", "Tyuiu.BerezovskiyAS.Sprint0.Task1.V0\Tyuiu.BerezovskiyAS.Sprint0.Task1.V0.csproj", "{4FA105B2-8A3A-4F23-9DDA-4779E7D29326}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{4961A42A-02E8-4849-93F1-0F130A24DF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4961A42A-02E8-4849-93F1-0F130A24DF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4961A42A-02E8-4849-93F1-0F130A24DF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA105B2-8A3A-4F23-9DDA-4779E7D29326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA105B2-8A3A-4F23-9DDA-4779E7D29326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA105B2-8A3A-4F23-9DDA-4779E7D29326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA105B2-8A3A-4F23-9DDA-4779E7D29326}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4961A42A-02E8-4849-93F1-0F130A24DF2C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{4FA105B2-8A3A-4F23-9DDA-4779E7D29326} = {FF0D7C95-B994-4F36-8DC0-A8CC1E1B73A9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {091205DA-B4F5-4015-8FC7-FAC62982D02F}
